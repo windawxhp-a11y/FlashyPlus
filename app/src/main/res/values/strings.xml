@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flashy+</string>
+    <string name="accessibility_description">يسمح لـ Flashy+ باكتشاف الضغط المطوّل على زر رفع الصوت لتشغيل الفلاش أو إطفائه. لا يجمع التطبيق بياناتك.</string>
+</resources>
